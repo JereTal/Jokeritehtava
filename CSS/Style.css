@@ -1,0 +1,21 @@
+#taulu {
+    border-spacing: 20px;
+}
+#taulu td {
+    border-radius: 8px;
+    border: 1px solid black;
+    padding: 5px;
+    text-align: center;
+    width: 15px;
+    height: 15px;
+    background-color: antiquewhite;
+}
+
+button {
+    background-color: rgb(222, 223, 242);
+    border-radius: 8px;
+    border: 1px solid black;
+    width: 70px;
+    height: 35px;
+    cursor: pointer;
+}
